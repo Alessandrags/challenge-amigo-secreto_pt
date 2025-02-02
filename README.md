@@ -35,7 +35,7 @@ Este é um projeto simples de **Amigo Secreto** desenvolvido em JavaScript. Ele 
 ## ⚙️ Como Executar o Projeto  
 1. Clone este repositório:  
    ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git 
+   git clone https://github.com/Alessandrags/challenge-amigo-secreto_pt.git
 2. Abra o arquivo `index.html` no navegador.
 
 ## 🔗 Contribuição
